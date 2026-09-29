@@ -1,0 +1,9 @@
+const CONFIG = {
+  // ✅ Replace with YOUR actual PC IP address
+  BACKEND_URL: "http://ADD YOUR PC IP ADDRESS:5000",
+  GEOAPIFY_KEY: "ADD PLACES API KEY HERE",
+  ANTHROPIC_KEY:
+"ADD ANTHROPIC API KEY HERE",
+};
+
+export default CONFIG;
