@@ -350,7 +350,9 @@ Potential future improvements include:
 
 **RIHLA — Travel & Food Guide Application**
 
-Developed as a university Final Year Project.
+_Developed as a university Final Year Project for Bachelors of Science in Information Technology (BS IT)_
+
+
 
 
 
